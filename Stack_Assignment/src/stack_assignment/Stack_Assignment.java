@@ -21,7 +21,7 @@ public class Stack_Assignment {
         Scanner input = new Scanner(System.in);
         
         //grab statement for validation
-        String statement = input.next();
+        String statement = input.nextLine();
         
         //test strings
         //String statement = "(({{{}}()}))";
